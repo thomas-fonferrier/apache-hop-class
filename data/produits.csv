@@ -1,101 +1,85 @@
-produit_id,produit,categorie,prix
-1,Roi,Mode,404.34
-2,Seigneur,Téléphonie,1152.77
-3,Me,Sport,930.98
-4,Par,Informatique,752.08
-5,Également,Mode,441.61
-6,Entrer,Maison,729.59
-7,Changer,Sport,453.18
-8,Calmer,Informatique,1036.03
-9,Mort,Téléphonie,665.01
-10,Vue,Sport,702.02
-11,Palais,Maison,913.92
-12,Page,Maison,1293.61
-13,Creuser,Maison,1103.96
-14,Masse,Maison,1463.31
-15,Situation,Téléphonie,1143.39
-16,Marchand,Mode,846.86
-17,Ancien,Maison,370.19
-18,Rayon,Informatique,408.53
-19,Fier,Téléphonie,219.91
-20,Durant,Informatique,442.42
-21,Très,Sport,1297.6
-22,Portier,Sport,379.92
-23,Or,Téléphonie,1222.08
-24,Puissance,Mode,1084.48
-25,Jeu,Téléphonie,1147.05
-26,Humain,Sport,1493.99
-27,Amener,Sport,753.15
-28,Précieux,Maison,751.08
-29,Prêt,Informatique,
-30,Six,Mode,
-31,Mêler,Téléphonie,330.57
-32,Ouvrir,Maison,82.5
-33,Service,Maison,747.39
-34,Durant,Sport,435.77
-35,Main,Informatique,1272.29
-36,Cour,Sport,209.56
-37,Voici,Maison,1093.99
-38,Brûler,Sport,555.25
-39,Selon,Sport,86.22
-40,Violence,Mode,300.04
-41,Vaincre,Mode,440.02
-42,Malgré,Sport,761.34
-43,Demain,Mode,426.78
-44,Moment,Mode,1023.79
-45,Écarter,Informatique,201.71
-46,Empêcher,Informatique,596.92
-47,Haute,Maison,841.17
-48,Léger,Maison,1134.9
-49,Monde,Téléphonie,907.67
-50,Fils,Sport,755.12
-51,Étrange,Informatique,
-52,Froid,Maison,1207.91
-53,Entraîner,Mode,690.91
-54,Manquer,Mode,1340.77
-55,Sein,Téléphonie,498.67
-56,Personne,Mode,484.61
-57,Anglais,Sport,1486.02
-58,Vendre,Maison,894.65
-59,Résistance,Mode,1244.15
-60,État,Mode,739.87
-61,Taire,Mode,456.69
-62,Ville,Informatique,558.85
-63,Beaucoup,Informatique,1470.05
-64,Parti,Mode,468.44
-65,Y,Informatique,899.4
-66,Amour,Maison,1450.94
-67,Même,Mode,870.68
-68,Réussir,Informatique,879.45
-69,Joindre,Téléphonie,791.11
-70,Lieu,Mode,1164.16
-71,Marche,Sport,230.19
-72,Âme,Téléphonie,
-73,Porter,Informatique,294.27
-74,Oncle,Sport,477.4
-75,Paquet,Téléphonie,625.31
-76,Notre,Téléphonie,621.46
-77,Cela,Mode,1381.58
-78,Or,Informatique,1061.61
-79,Exiger,Mode,318.94
-80,Juge,Maison,1497.2
-81,Ensuite,Sport,792.96
-82,Fermer,Maison,1435.46
-83,Loup,Sport,1369.06
-84,Facile,Maison,823.95
-85,Plan,Maison,919.01
-86,Danser,Téléphonie,1436.43
-87,Demande,Maison,841.55
-88,Employer,Téléphonie,1412.81
-89,Ruine,Maison,1159.05
-90,Taille,Téléphonie,1038.46
-91,Projet,Sport,482.39
-92,Secret,Maison,845.13
-93,Quelque,Maison,438.81
-94,Dont,Mode,1018.17
-95,Arrêter,Sport,1344.68
-96,Marcher,Sport,1229.38
-97,Long,Téléphonie,442.77
-98,Auquel,Maison,
-99,Ensuite,Informatique,526.08
-100,Celui,Sport,987.4
+﻿produit_id,produit,categorie,prix
+74,Jean 2,Mode,1085.18
+1,Ordinateur portable 1,Informatique,912.09
+59,Tapis de sport 2,Sport,1057.02
+23,Disque dur 2,Informatique,153.88
+13,Casque 1,Informatique,
+71,T-shirt 2,Mode,635.55
+11,Souris 2,Informatique,515.01
+19,Disque SSD 1,Informatique,1385.25
+5,Écran 2,,979.87
+66,Vélo 3,Sport,221.39
+41,Aspirateur 2,Maison,988.54
+48,Cafetière 3,Maison,1212.76
+36,Écouteurs 3,Téléphonie,1452.91
+82,Chaussures 1,,415.43
+56,Chaussures running 2,Sport,1245.9
+55,Chaussures running 1,Sport,1394.34
+34,Écouteurs 1,Téléphonie,1303.46
+77,Veste 2,Mode,136.59
+43,Lampe 1,Maison,171.25
+50,Ventilateur 2,Maison,1462.07
+12,Souris 3,Informatique,685.71
+31,Chargeur 1,Téléphonie,536.86
+40,Aspirateur 1,Maison,326.98
+29,Coque 2,Téléphonie,501.17
+10,Souris 1,Informatique,350.46
+69,Sac de sport 3,Sport,1121.71
+6,Écran 3,Informatique,1155.75
+46,Cafetière 1,Maison,1146.28
+32,Chargeur 2,Téléphonie,1001.36
+35,Écouteurs 2,Téléphonie,1084.38
+45,Lampe 3,Maison,557.67
+84,Chaussures 3,Mode,733.64
+17,Webcam 2,,567.71
+65,Vélo 2,Sport,607.17
+8,Clavier 2,Informatique,330.38
+68,Sac de sport 2,Sport,55.68
+57,Chaussures running 3,Sport,408.5
+20,Disque SSD 2,Informatique,
+70,T-shirt 1,Mode,330.55
+26,Smartphone 2,Téléphonie,838.99
+54,Robot cuisine 3,Maison,49.12
+14,Casque 2,Informatique,151.68
+63,Haltères 3,Sport,1306.1
+4,Écran 1,Informatique,1280.66
+18,Webcam 3,Informatique,237.43
+39,Batterie externe 3,Téléphonie,871.1
+9,Clavier 3,Informatique,682.82
+67,Sac de sport 1,Sport,953.43
+7,Clavier 1,Informatique,1084.05
+37,Batterie externe 1,Téléphonie,904.61
+76,Veste 1,Mode,855.71
+62,Haltères 2,Sport,19.1
+51,Ventilateur 3,Maison,1229.46
+47,Cafetière 2,Maison,865.41
+83,Chaussures 2,Mode,996.29
+16,Webcam 1,Informatique,1001.01
+28,Coque 1,Téléphonie,846.76
+42,Aspirateur 3,Maison,344.12
+27,Smartphone 3,Téléphonie,
+49,Ventilateur 1,Maison,1269.28
+25,Smartphone 1,Téléphonie,1219.54
+44,Lampe 2,Maison,1269.61
+81,Sweat 3,Mode,1014.21
+78,Veste 3,Mode,88.39
+58,Tapis de sport 1,Sport,278.82
+33,Chargeur 3,Téléphonie,
+80,Sweat 2,Mode,930.58
+60,Tapis de sport 3,Sport,
+64,Vélo 1,Sport,853.82
+73,Jean 1,Mode,561.38
+38,Batterie externe 2,Téléphonie,533.95
+30,Coque 3,Téléphonie,192.12
+2,Ordinateur portable 2,Informatique,157.78
+53,Robot cuisine 2,Maison,967.62
+22,Disque dur 1,Informatique,148.91
+3,Ordinateur portable 3,Informatique,1055.65
+24,Disque dur 3,Informatique,1110.81
+79,Sweat 1,Mode,244.54
+75,Jean 3,Mode,1167.49
+21,Disque SSD 3,Informatique,1249.34
+61,Haltères 1,Sport,516.34
+72,T-shirt 3,Mode,517.94
+15,Casque 3,Informatique,645.88
+52,Robot cuisine 1,Maison,924.22
