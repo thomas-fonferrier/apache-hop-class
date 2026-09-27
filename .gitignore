@@ -1,3 +1,2 @@
-.py
-.venv
-/.venv
+*.py
+.venv/
