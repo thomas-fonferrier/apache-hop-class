@@ -1,0 +1,19 @@
+2026/09/27 11:45:24 - Hop - Projects enabled
+2026/09/27 11:45:24 - Hop - Enabling project : 'default'
+2026/09/27 11:45:24 - Hop - Two-way password encoder initialized with plugin ID 'Hop' for project 'default'
+[31m2026/09/27 11:55:05 - GUI - ERROR: Unable to call method openFile in class org.apache.hop.ui.hopgui.perspective.explorer.ExplorerPerspective : class org.apache.hop.ui.core.gui.BaseGuiWidgets cannot access a member of class org.apache.hop.ui.hopgui.perspective.explorer.ExplorerPerspective with modifiers "private"
+2026/09/27 11:55:05 - GUI - java.lang.IllegalAccessException: class org.apache.hop.ui.core.gui.BaseGuiWidgets cannot access a member of class org.apache.hop.ui.hopgui.perspective.explorer.ExplorerPerspective with modifiers "private"
+2026/09/27 11:55:05 - GUI - 	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:400)
+2026/09/27 11:55:05 - GUI - 	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:670)
+2026/09/27 11:55:05 - GUI - 	at java.base/java.lang.reflect.Method.invoke(Method.java:556)
+2026/09/27 11:55:05 - GUI - 	at org.apache.hop.ui.core.gui.BaseGuiWidgets.lambda$getListener$1(BaseGuiWidgets.java:240)
+2026/09/27 11:55:05 - GUI - 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+2026/09/27 11:55:05 - GUI - 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4651)
+2026/09/27 11:55:05 - GUI - 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+2026/09/27 11:55:05 - GUI - 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+2026/09/27 11:55:05 - GUI - 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+2026/09/27 11:55:05 - GUI - 	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+2026/09/27 11:55:05 - GUI - 	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4422)
+2026/09/27 11:55:05 - GUI - 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3998)
+2026/09/27 11:55:05 - GUI - 	at org.apache.hop.ui.hopgui.HopGui.open(HopGui.java:620)
+2026/09/27 11:55:05 - GUI - 	at org.apache.hop.ui.hopgui.HopGui.main(HopGui.java:454)[0m
