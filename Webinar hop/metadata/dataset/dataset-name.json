@@ -1,0 +1,60 @@
+{
+  "base_filename": "dataset-name.csv",
+  "name": "dataset-name",
+  "dataset_fields": [
+    {
+      "field_length": -1,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_name": "Name"
+    },
+    {
+      "field_length": -1,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_name": "Type"
+    },
+    {
+      "field_length": -1,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_name": "Format"
+    },
+    {
+      "field_length": -1,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_name": "Length"
+    },
+    {
+      "field_length": -1,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_name": "Precision"
+    },
+    {
+      "field_length": -1,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_name": "Currency"
+    },
+    {
+      "field_length": -1,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_name": "Decimal"
+    },
+    {
+      "field_length": -1,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_name": "Group"
+    },
+    {
+      "field_length": -1,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_name": "Trim type"
+    }
+  ]
+}
